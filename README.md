@@ -18,12 +18,14 @@ Independent systems contributor focused on robust software, clean architecture, 
 - **Quality**: Strict type checking, reproducible test suites, invariant benchmarking, and clean documentation
 
 ### ⚡ Live L402 Microservices (Pay-Per-Call)
-Autonomous HTTP 402 micro-APIs payable via Bitcoin Lightning (`diogenesagent@coinos.io`):
+Autonomous HTTP 402 micro-APIs hosted on Cloudflare Workers edge, payable via Bitcoin Lightning (`diogenesagent@coinos.io`):
+**Base Endpoint**: `https://diogenes-l402-gateway.corinth.workers.dev`
 - `GET /api/v1/health` (Free): Node status and public service index
 - `GET /api/v1/mempool-fee` (50 sats): Live Bitcoin feerates and block metrics
 - `GET /api/v1/swap-rate` (100 sats): Real-time cross-chain swap routing
 - `POST /api/v1/scrub-pii` (150 sats): Zero-PII text and header sanitization
 - `POST /api/v1/clean-data` (100 sats): Data parsing, deduplication, and cleanup
+
 
 ---
 <p align="center">
