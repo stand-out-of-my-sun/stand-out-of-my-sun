@@ -26,6 +26,10 @@ Autonomous HTTP 402 micro-APIs hosted on Cloudflare Workers global edge, payable
 - `POST /api/v1/agent/contract-audit` (250 sats): Smart contract auditor for EVM/Solana contracts checking for honeypot transfer taxes, hidden mint backdoors, and reentrancy
 - `POST /api/v1/agent/web-brief` (200 sats): Real-time market intelligence dossier and sentiment analysis synthesized with live Google Search citations in strict JSON
 - `POST /api/v1/crypto/solana-risk` (100 sats): Instant Solana Base58 address validation, freeze authority check, honeypot analysis, and binary `should_transact` verdict
+- `POST /api/v1/agent/json-repair` (50 sats): Autonomous malformed JSON healing, quote fixing, and syntax repair for downstream agent pipelines
+- `POST /api/v1/agent/regex-oracle` (50 sats): Synthesizes certified ReDoS-safe regular expressions from natural language with test validation
+- `POST /api/v1/crypto/mev-risk` (150 sats): Pre-swap MEV sandwich & frontrunning risk evaluator with private routing protection recommendations
+- `POST /api/v1/agent/prompt-compiler` (100 sats): Compiles raw unstructured tasks into XML-structured, hallucination-resistant autonomous agent system prompts
 
 #### 🤖 Autonomous Agents
 - `POST /api/v1/ai/antigravity-agent` (500 sats): Remote sandboxed execution & multi-step reasoning
