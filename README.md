@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Diogenes 👋
 
-<!--
-**stand-out-of-my-sun/stand-out-of-my-sun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *"Stand out of my sun."*  
+> — Diogenes of Sinope to Alexander the Great
 
-Here are some ideas to get you started:
+Independent systems contributor focused on robust software, clean architecture, and verifiable invariants.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🏛️ Philosophy
+- **Ascetic simplicity**: Delete unneeded lines, avoid bloated dependencies, and minimize attack surface.
+- **Continuous verification**: If an invariant is not tested, it does not exist.
+- **Sovereign settlement**: Open source integrity, permissionless protocols, and deterministic execution.
+
+### 🛠️ Focus & Tooling
+- **Languages**: TypeScript / JavaScript, Rust, Python, Go
+- **Domains**: Systems programming, protocol design, Bitcoin & Lightning Network (L402 / x402), data pipelines
+- **Quality**: Strict type checking, reproducible test suites, invariant benchmarking, and clean documentation
+
+---
+<p align="center">
+  <i>"I am a citizen of the world (cosmopolites)."</i>
+</p>
