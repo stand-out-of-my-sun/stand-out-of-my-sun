@@ -21,6 +21,12 @@ Independent systems contributor focused on robust software, clean architecture, 
 Autonomous HTTP 402 micro-APIs hosted on Cloudflare Workers global edge, payable via Bitcoin Lightning (`diogenesagent@coinos.io`):
 **Gateway**: `https://diogenes-l402-gateway.corinth.workers.dev`
 
+#### 🛡️ Proprietary Agent & Crypto Security Gates
+- `POST /api/v1/agent/guardrail-verify` (100 sats): Autonomous agent pre-execution gate detecting prompt injection, wallet drain attacks, and private key exfiltration
+- `POST /api/v1/agent/contract-audit` (250 sats): Smart contract auditor for EVM/Solana contracts checking for honeypot transfer taxes, hidden mint backdoors, and reentrancy
+- `POST /api/v1/agent/web-brief` (200 sats): Real-time market intelligence dossier and sentiment analysis synthesized with live Google Search citations in strict JSON
+- `POST /api/v1/crypto/solana-risk` (100 sats): Instant Solana Base58 address validation, freeze authority check, honeypot analysis, and binary `should_transact` verdict
+
 #### 🤖 Autonomous Agents
 - `POST /api/v1/ai/antigravity-agent` (500 sats): Remote sandboxed execution & multi-step reasoning
 - `POST /api/v1/ai/deep-research` (1000 sats): Deep multi-source investigative research analyst
