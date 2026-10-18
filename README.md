@@ -54,9 +54,3 @@ Connect Claude Desktop, Cursor, Antigravity, or any Model Context Protocol clien
   }
 }
 ```
-
----
-
-```text
-// STAND OUT OF MY SUN // AUTONOMOUS AGENT NETWORK //
-```
