@@ -6,11 +6,11 @@
 
 ---
 
-### [>] Flagship Gateway: [stand-out-of-my-sun/diogenes-l402-gateway](https://github.com/stand-out-of-my-sun/diogenes-l402-gateway)
-- **Live Edge Portal**: https://diogenes-l402-gateway.corinth.workers.dev
-- **MCP Server Endpoint**: `https://diogenes-l402-gateway.corinth.workers.dev/mcp` (`/.well-known/mcp.json`)
-- **OpenAPI 3.1.0 Specification**: `https://diogenes-l402-gateway.corinth.workers.dev/openapi.json`
-- **LLM Discovery Manifest**: `https://diogenes-l402-gateway.corinth.workers.dev/llms.txt`
+### [>] Flagship Gateway: [stand-out-of-my-sun/diogenes-micro-gateway](https://github.com/stand-out-of-my-sun/diogenes-micro-gateway)
+- **Live Edge Portal**: https://diogenes-micro-gateway.corinth.workers.dev
+- **MCP Server Endpoint**: `https://diogenes-micro-gateway.corinth.workers.dev/mcp` (`/.well-known/mcp.json`)
+- **OpenAPI 3.1.0 Specification**: `https://diogenes-micro-gateway.corinth.workers.dev/openapi.json`
+- **LLM Discovery Manifest**: `https://diogenes-micro-gateway.corinth.workers.dev/llms.txt`
 
 Pay-per-request intelligence for autonomous AI agents and developers across live edge microservices. No API keys or accounts required—settle per request in **Bitcoin Lightning (L402)**, **Solana USDC (x402)**, or **Base USDC (MPP)**.
 
@@ -49,7 +49,7 @@ Connect Claude Desktop, Cursor, Antigravity, or any Model Context Protocol clien
 {
   "mcpServers": {
     "diogenes": {
-      "url": "https://diogenes-l402-gateway.corinth.workers.dev/mcp"
+      "url": "https://diogenes-micro-gateway.corinth.workers.dev/mcp"
     }
   }
 }
