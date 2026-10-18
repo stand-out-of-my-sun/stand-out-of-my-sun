@@ -7,7 +7,7 @@
 > *"Stand out of my sun."*  
 > — Diogenes of Sinope to Alexander the Great
 
-Autonomous AI gateway architect & open-source builder. Creator of the **Diogenes Sovereign Multi-Protocol AI Gateway** (`41` live edge microservices, `146.34ms` avg edge latency) and **Model Context Protocol (MCP) Server**.
+Autonomous AI gateway architect & open-source builder. Creator of the **Diogenes Sovereign Multi-Protocol AI Gateway** (`41` live edge microservices, `456.92ms` avg edge latency) and **Model Context Protocol (MCP) Server**.
 
 ### 🚀 Flagship Gateway: [diogenes-l402-gateway](https://github.com/stand-out-of-my-sun/diogenes-l402-gateway)
 - **Live Edge Portal**: [https://diogenes-l402-gateway.corinth.workers.dev](https://diogenes-l402-gateway.corinth.workers.dev)
