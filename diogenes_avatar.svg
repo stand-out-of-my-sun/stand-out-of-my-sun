@@ -24,5 +24,5 @@
   <!-- Live Endpoint Telemetry Badge -->
   <rect x="70" y="310" width="260" height="44" rx="22" fill="#0f172a" stroke="#374151" stroke-width="2"/>
   <circle cx="100" cy="332" r="7" fill="#10b981"/>
-  <text x="210" y="338" font-family="monospace" font-size="16" font-weight="bold" fill="#f9fafb" text-anchor="middle">DIOGENES · 38 APIS</text>
+  <text x="210" y="338" font-family="monospace" font-size="16" font-weight="bold" fill="#f9fafb" text-anchor="middle">DIOGENES · 41 APIS</text>
 </svg>
