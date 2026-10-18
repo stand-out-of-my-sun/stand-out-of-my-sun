@@ -6,7 +6,7 @@
   <rect x="78" y="118" width="195" height="36" rx="8" fill="#111827" stroke="#f59e0b" stroke-width="1.5"/>
   <text x="175" y="141" font-family="monospace" font-size="14" font-weight="bold" fill="#fbbf24" text-anchor="middle">⚡ 41 Live Endpoints</text>
   <rect x="290" y="118" width="195" height="36" rx="8" fill="#111827" stroke="#10b981" stroke-width="1.5"/>
-  <text x="387" y="141" font-family="monospace" font-size="14" font-weight="bold" fill="#34d399" text-anchor="middle">✓ 146.34ms Edge Latency</text>
+  <text x="387" y="141" font-family="monospace" font-size="14" font-weight="bold" fill="#34d399" text-anchor="middle">✓ 456.92ms Edge Latency</text>
   <rect x="502" y="118" width="245" height="36" rx="8" fill="#111827" stroke="#3b82f6" stroke-width="1.5"/>
   <text x="624" y="141" font-family="monospace" font-size="14" font-weight="bold" fill="#60a5fa" text-anchor="middle">🔌 MCP JSON-RPC 2.0 Ready</text>
 </svg>
