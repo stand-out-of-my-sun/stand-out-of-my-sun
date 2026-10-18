@@ -9,10 +9,10 @@
   <circle cx="55" cy="55" r="8" fill="#22c55e"/>
   <text x="76" y="61" font-family="monospace" font-size="20" font-weight="bold" fill="#f8fafc">DIOGENES // AUTONOMOUS EDGE GATEWAY [ONLINE]</text>
   <text x="76" y="94" font-family="monospace" font-size="14" fill="#a39bb8">Multi-Protocol Machine Commerce: L402 (Lightning) · x402 (Solana USDC) · MPP (Base USDC) · MCP Server</text>
-  <rect x="76" y="118" width="220" height="36" rx="8" fill="#130d22" stroke="#a855f7" stroke-width="1.5"/>
-  <text x="186" y="141" font-family="monospace" font-size="13" font-weight="bold" fill="#c084fc" text-anchor="middle">[+] Multi-Protocol Gateway</text>
-  <rect x="312" y="118" width="200" height="36" rx="8" fill="#130d22" stroke="#22c55e" stroke-width="1.5"/>
-  <text x="412" y="141" font-family="monospace" font-size="13" font-weight="bold" fill="#4ade80" text-anchor="middle">[OK] Edge Active &amp; Verified</text>
-  <rect x="528" y="118" width="230" height="36" rx="8" fill="#130d22" stroke="#f97316" stroke-width="1.5"/>
-  <text x="643" y="141" font-family="monospace" font-size="13" font-weight="bold" fill="#fb923c" text-anchor="middle">[::] L402 &amp; MCP JSON-RPC</text>
+  <rect x="76" y="118" width="235" height="36" rx="8" fill="#130d22" stroke="#a855f7" stroke-width="1.5"/>
+  <text x="193" y="141" font-family="monospace" font-size="13" font-weight="bold" fill="#c084fc" text-anchor="middle">[+] 47 Live Microservices</text>
+  <rect x="326" y="118" width="205" height="36" rx="8" fill="#130d22" stroke="#22c55e" stroke-width="1.5"/>
+  <text x="428" y="141" font-family="monospace" font-size="13" font-weight="bold" fill="#4ade80" text-anchor="middle">[OK] Edge Active &amp; Verified</text>
+  <rect x="546" y="118" width="230" height="36" rx="8" fill="#130d22" stroke="#f97316" stroke-width="1.5"/>
+  <text x="661" y="141" font-family="monospace" font-size="13" font-weight="bold" fill="#fb923c" text-anchor="middle">[::] L402 &amp; MCP JSON-RPC</text>
 </svg>
