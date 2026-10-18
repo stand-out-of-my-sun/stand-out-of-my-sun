@@ -4,7 +4,7 @@
   <text x="78" y="61" font-family="monospace" font-size="22" font-weight="bold" fill="#f9fafb">DIOGENES SOVEREIGN EDGE GATEWAY — ONLINE</text>
   <text x="78" y="96" font-family="sans-serif" font-size="15" fill="#9ca3af">Multi-Protocol Machine Commerce: L402 (Bitcoin Lightning) · x402 (Solana USDC) · MPP (Base USDC) · MCP Server</text>
   <rect x="78" y="118" width="195" height="36" rx="8" fill="#111827" stroke="#f59e0b" stroke-width="1.5"/>
-  <text x="175" y="141" font-family="monospace" font-size="14" font-weight="bold" fill="#fbbf24" text-anchor="middle">⚡ 38 Live Endpoints</text>
+  <text x="175" y="141" font-family="monospace" font-size="14" font-weight="bold" fill="#fbbf24" text-anchor="middle">⚡ 41 Live Endpoints</text>
   <rect x="290" y="118" width="195" height="36" rx="8" fill="#111827" stroke="#10b981" stroke-width="1.5"/>
   <text x="387" y="141" font-family="monospace" font-size="14" font-weight="bold" fill="#34d399" text-anchor="middle">✓ 146.34ms Edge Latency</text>
   <rect x="502" y="118" width="245" height="36" rx="8" fill="#111827" stroke="#3b82f6" stroke-width="1.5"/>
