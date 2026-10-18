@@ -8,12 +8,12 @@
 
 ### [>] Flagship Gateway: [stand-out-of-my-sun/diogenes-micro-gateway](https://github.com/stand-out-of-my-sun/diogenes-micro-gateway)
 - **Live Edge Portal**: https://diogenes-micro-gateway.corinth.workers.dev
-- **Active Microservices**: **47 Live Edge Microservices** + **45 Frontier Gemini Models**
+- **Active Microservices**: **54 Live Edge Microservices** + **45 Frontier Gemini Models**
 - **MCP Server Endpoint**: `https://diogenes-micro-gateway.corinth.workers.dev/mcp` (`/.well-known/mcp.json`)
 - **OpenAPI 3.1.0 Specification**: `https://diogenes-micro-gateway.corinth.workers.dev/openapi.json`
 - **LLM Discovery Manifest**: `https://diogenes-micro-gateway.corinth.workers.dev/llms.txt`
 
-Pay-per-request intelligence for autonomous AI agents and developers across **47 live edge microservices**. No API keys or accounts required—settle per request in **Bitcoin Lightning (L402)**, **Solana USDC (x402)**, or **Base USDC (MPP)**.
+Pay-per-request intelligence for autonomous AI agents and developers across **54 live edge microservices**. No API keys or accounts required—settle per request in **Bitcoin Lightning (L402)**, **Solana USDC (x402)**, or **Base USDC (MPP)**.
 
 ---
 
@@ -21,12 +21,12 @@ Pay-per-request intelligence for autonomous AI agents and developers across **47
 
 | Microservice | Endpoint | Price | Capability |
 | :--- | :--- | :--- | :--- |
-| **EVE Frontier Smart Turret Friend-or-Foe & Threat Priority Resolver** | `POST /api/v1/eve-frontier/turret-target-matrix` | 125 sats (L402) | Evaluates incoming ship signatures, Tribe standings, aggression flags, and GJ capacitor draw to return deterministic target-lock priorities for Sui Move Smart Turret extensions. |
-| **EVE Frontier On-Chain Killmail & Tribe Threat Intelligence Analyzer** | `POST /api/v1/eve-frontier/killmail-threat-intel` | 150 sats (L402) | Analyzes Sui GraphQL/gRPC killmail.move events to identify solar system camp hotspots, hostile Tribe doctrine compositions, and active Smart Turret killzones. |
-| **EVE Frontier Smart Storage Unit (SSU) Automated Market Maker & Vending Pricer** | `POST /api/v1/eve-frontier/ssu-market-maker` | 120 sats (L402) | Computes dynamic bonding-curve bid/ask quotes and anti-drain inventory limits for player-owned Smart Storage Unit (SSU) vending machines and trade hubs. |
-| **Diogenes Claim-Source Groundedness & Citation Verifier** | `POST /api/v1/agent/hallucination-auditor` | 150 sats (L402) | Audits draft agent responses against retrieved source snippets to flag unsupported numbers, fabricated URLs, or ungrounded claims. |
-| **Diogenes On-Chain Address Poisoning & Vanity Spoof Detector** | `POST /api/v1/crypto/address-poisoning-check` | 100 sats (L402) | Detects zero-value transfer dusting and prefix/suffix vanity address spoofing attacks across Bitcoin, Solana, and EVM wallets. |
-| **Diogenes Autonomous SQL Injection & Read-Only Query Verifier** | `POST /api/v1/agent/sql-guard` | 75 sats (L402) | AST-level SQL query verifier blocking destructive DDL/DML and injection payloads before AI database agents execute queries. |
+| **Autonomous LLM Context Compaction & State-Loss Integrity Verifier** | `POST /api/v1/agent/context-compaction-verifier` | 90 sats (L402) | Audits pre-compaction and post-compaction agent state summaries to detect dropped constraints, wallet addresses, or pending tool IDs. |
+| **Multi-Agent Task Deliverable & Schema Escrow Arbiter** | `POST /api/v1/mpp/agent-escrow-arbiter` | $0.05 USDC (MPP) | Deterministically verifies whether an agent-submitted deliverable satisfies cryptographic hashes, JSON schemas, and assertion checks for automated escrow settlement. |
+| **Solana Jito Bundle Tip & Compute Unit Priority Fee Optimizer** | `POST /api/v1/x402/solana-priority-fee-oracle` | $0.02 USDC (x402) | Calculates optimal Solana compute unit (CU) microlamport priority fees and Jito MEV bundle tips for specific writable accounts. |
+| **EVE Frontier Solar System Sovereignty & Tribe Logistics Radar** | `POST /api/v1/eve-frontier/sovereignty-fuel-radar` | 140 sats (L402) | Aggregates constellation-wide Lagrange Network Node fuel burn, Smart Gate toll revenue, and SSU ammo reserves to score Tribe sovereignty resilience. |
+| **EVE Frontier Vault zkLogin & SmartCharacter Ownership Proof Verifier** | `POST /api/v1/eve-frontier/zklogin-character-verifier` | 100 sats (L402) | Validates Sui zkLogin ephemeral signatures, JWT salt proofs, and SmartCharacter object ownership for EVE Frontier Tribe portals and off-chain gate ACLs. |
+| **EIP-712 Typed Data & Permit2 Phishing Blast-Radius Decoder** | `POST /api/v1/crypto/eip712-permit-decoder` | 100 sats (L402) | Decodes raw EIP-712 and Uniswap Permit2 typed-data payloads to detect unlimited token approvals, known drainer spenders, and expiration traps before wallet signing. |
 
 ---
 
