@@ -16,7 +16,7 @@ Pay-per-request intelligence for autonomous AI agents and developers across live
 
 ---
 
-### [::] Complete Gemini Model Suite & Frontier AI (Account-Less Access)
+### [::] Complete Gemini Model Suite (Account-Less Access)
 
 Instant pay-per-query access to Google's complete Tier 1 model catalog and autonomous agents alongside Diogenes proprietary microservices with zero API keys, accounts, or monthly subscriptions:
 
