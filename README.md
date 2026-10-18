@@ -4,10 +4,6 @@
   <img src="./gateway_status_banner.svg" alt="Diogenes Sovereign Edge Gateway Live Banner" width="100%" />
 </p>
 
-<p align="center">
-  <img src="./diogenes_avatar.svg" alt="Diogenes Cynic Lantern Avatar" width="140" />
-</p>
-
 > *"Stand out of my sun."*  
 > — Diogenes of Sinope to Alexander the Great
 
