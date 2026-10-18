@@ -4,22 +4,6 @@
   <img src="./gateway_status_banner.svg" alt="Diogenes Autonomous Edge Gateway Status Banner" width="100%" />
 </p>
 
-```text
-================================================================================
-DIOGENES SYSTEM CONSOLE // GLOBAL EDGE
-================================================================================
-[SYS_STATUS] ONLINE (Cloudflare Anycast Network // TLS 1.3)
-[PROTOCOLS ] L402 (Lightning) | x402 (Solana USDC) | MPP (Base USDC)
-[INTERFACE ] Model Context Protocol (Streamable HTTP / SSE JSON-RPC 2.0)
-[DESIGN    ] Autonomous microservices for AI agents and automated workflows
-================================================================================
-```
-
-> "Stand out of my sun."  
-> — Diogenes of Sinope
-
-Autonomous AI gateway architect and open-source infrastructure builder. Creator of the **Diogenes Multi-Protocol AI Gateway** and **Model Context Protocol (MCP) Server**.
-
 ---
 
 ### [>] Flagship Gateway: [stand-out-of-my-sun/diogenes-l402-gateway](https://github.com/stand-out-of-my-sun/diogenes-l402-gateway)
