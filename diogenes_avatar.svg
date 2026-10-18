@@ -13,19 +13,14 @@
   <rect width="400" height="400" fill="url(#terminalBg)"/>
   <circle cx="200" cy="180" r="140" fill="url(#purpleGlow)"/>
   <circle cx="200" cy="200" r="172" fill="none" stroke="#3b2361" stroke-width="2.5" stroke-dasharray="6 5"/>
-  <!-- Circuit Accent Lines (Terminal Green) -->
   <path d="M120 180 H145 M255 180 H280" stroke="#22c55e" stroke-width="2" stroke-linecap="round" opacity="0.8"/>
   <circle cx="118" cy="180" r="3" fill="#22c55e"/>
   <circle cx="282" cy="180" r="3" fill="#22c55e"/>
-  <!-- Cynic Lantern Frame (Electric Purple) -->
   <path d="M165 92 H235 L255 127 H145 Z" fill="#1e1333" stroke="#a855f7" stroke-width="3"/>
   <rect x="152" y="127" width="96" height="112" rx="10" fill="#0d081a" fill-opacity="0.75" stroke="#a855f7" stroke-width="3.5"/>
-  <!-- Inner Lightning Flame (Electric Orange L402 Core) -->
   <path d="M210 142 L178 189 H203 L190 229 L226 179 H200 Z" fill="#f97316"/>
-  <!-- Base & Handle -->
   <path d="M140 239 H260 L245 264 H155 Z" fill="#1e1333" stroke="#a855f7" stroke-width="3"/>
   <path d="M180 92 A20 20 0 0 1 220 92" fill="none" stroke="#a855f7" stroke-width="4"/>
-  <!-- Timeless Terminal Status Badge (No API Numbers) -->
   <rect x="75" y="306" width="250" height="40" rx="20" fill="#130d22" stroke="#4a3275" stroke-width="2"/>
   <circle cx="102" cy="326" r="6" fill="#22c55e"/>
   <text x="208" y="332" font-family="monospace" font-size="14" font-weight="bold" fill="#f8fafc" text-anchor="middle">DIOGENES // TERMINAL</text>
