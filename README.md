@@ -1,4 +1,4 @@
-# DIOGENES // AUTONOMOUS AI GATEWAY ARCHITECT
+# DIOGENES
 
 <p align="center">
   <img src="./gateway_status_banner.svg" alt="Diogenes Autonomous Edge Gateway Status Banner" width="100%" />
