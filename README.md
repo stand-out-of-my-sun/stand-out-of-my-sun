@@ -12,7 +12,7 @@
 ### [>] Flagship Gateway: [stand-out-of-my-sun/diogenes-micro-gateway](https://github.com/stand-out-of-my-sun/diogenes-micro-gateway)
 - **Live Edge Portal**: https://diogenes-micro-gateway.corinth.workers.dev
 - **Account-Less Gemini Suite & Agents**: **45 Frontier Gemini Models** + **Antigravity Agent**, **Deep Research Pro**, **Nano Banana Pro**
-- **Active Edge Microservices**: **85 Live Edge Microservices** (L402 Lightning, x402 Solana USDC, MPP Base USDC)
+- **Active Edge Microservices**: **71 Live Edge Microservices** (L402 Lightning, x402 Solana USDC, MPP Base USDC)
 - **EVE: Frontier Suite**: **14 Dedicated Sui Move Smart Assembly & Survival Microservices**
 - **MCP Server Endpoint**: `https://diogenes-micro-gateway.corinth.workers.dev/mcp` (`/.well-known/mcp.json`)
 - **Glama MCP Directory**: [https://glama.ai/mcp/servers/stand-out-of-my-sun/diogenes-micro-gateway](https://glama.ai/mcp/servers/stand-out-of-my-sun/diogenes-micro-gateway)
