@@ -6,16 +6,18 @@
 
 [![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-stand-out-of-my-sun-diogenes-l402-gateway-efbd75e7/badge.svg)](https://www.tensorblock.co/mcp/servers/github-stand-out-of-my-sun-diogenes-l402-gateway-efbd75e7?client=cursor)
 [![Glama MCP Server](https://glama.ai/mcp/servers/stand-out-of-my-sun/diogenes-micro-gateway/badges/score.svg)](https://glama.ai/mcp/servers/stand-out-of-my-sun/diogenes-micro-gateway)
+[![M8ven Verified](https://m8ven.ai/badge/mcp/stand-out-of-my-sun/diogenes-l402-gateway-6pytmh?v=b3194ad58803d528b0f0b22150c4e30a)](https://m8ven.ai/mcp/stand-out-of-my-sun/diogenes-l402-gateway-6pytmh?s=readme)
 
 ---
 
 ### [>] Flagship Gateway: [stand-out-of-my-sun/diogenes-micro-gateway](https://github.com/stand-out-of-my-sun/diogenes-micro-gateway)
 - **Live Edge Portal**: https://diogenes-micro-gateway.corinth.workers.dev
 - **Account-Less Gemini Suite & Agents**: **45 Frontier Gemini Models** + **Antigravity Agent**, **Deep Research Pro**, **Nano Banana Pro**
-- **Active Edge Microservices**: **71 Live Edge Microservices** (L402 Lightning, x402 Solana USDC, MPP Base USDC)
+- **Active Edge Microservices**: **121 Live Edge Microservices across 9 Modular Packages** (L402 Lightning, x402 Solana USDC, MPP Base USDC)
 - **EVE: Frontier Suite**: **14 Dedicated Sui Move Smart Assembly & Survival Microservices**
 - **MCP Server Endpoint**: `https://diogenes-micro-gateway.corinth.workers.dev/mcp` (`/.well-known/mcp.json`)
 - **Glama MCP Directory**: [https://glama.ai/mcp/servers/stand-out-of-my-sun/diogenes-micro-gateway](https://glama.ai/mcp/servers/stand-out-of-my-sun/diogenes-micro-gateway)
+- **M8ven MCP Trust Index**: [https://m8ven.ai/mcp/stand-out-of-my-sun/diogenes-l402-gateway](https://m8ven.ai/mcp/stand-out-of-my-sun/diogenes-l402-gateway)
 - **TensorBlock MCP Index**: [https://www.tensorblock.co/mcp/servers/github-stand-out-of-my-sun-diogenes-l402-gateway-efbd75e7?client=cursor](https://www.tensorblock.co/mcp/servers/github-stand-out-of-my-sun-diogenes-l402-gateway-efbd75e7?client=cursor)
 - **Bug Reports & Feature Requests**: [GitHub Issues](https://github.com/stand-out-of-my-sun/diogenes-micro-gateway/issues)
 
