@@ -10,12 +10,12 @@
 ---
 
 ### [>] Flagship Gateway: [stand-out-of-my-sun/diogenes-micro-gateway](https://github.com/stand-out-of-my-sun/diogenes-micro-gateway)
-- **Live Edge Portal**: https://diogenes-micro-gateway.corinth.workers.dev
+- **Live Edge Portal**: https://diogenesgateway.com
 - **Account-Less Gemini Suite & Agents**: **45 Frontier Gemini Models** + **Antigravity Agent**, **Deep Research Pro**, **Nano Banana Pro**
 - **Active Edge Microservices**: **121 Live Edge Microservices** across 6 flexible payment rails (Bitcoin Lightning, Solana, Base, Garlicoin 0-Conf, BSC WGRLC, and Prepaid Session Keys)
 - **9 Modular Scoped MCP Suites**: Zero context bloat via focused packages (`eve-frontier`, `agent-guardrails`, `web3-security`, `gemini-suite`, `context-code-solver`, `dev-utilities`, `web-scraping-engine`, `neural-search-engine`, `database-intelligence`)
 - **EVE: Frontier Suite**: **14 Dedicated Sui Move Smart Assembly & Survival Microservices**
-- **MCP Server Endpoint**: `https://diogenes-micro-gateway.corinth.workers.dev/mcp` (`/.well-known/mcp.json`)
+- **MCP Server Endpoint**: `https://diogenesgateway.com/mcp` (`/.well-known/mcp.json`)
 - **Glama MCP Directory**: [https://glama.ai/mcp/servers/stand-out-of-my-sun/diogenes-micro-gateway](https://glama.ai/mcp/servers/stand-out-of-my-sun/diogenes-micro-gateway)
 - **TensorBlock MCP Index**: [https://www.tensorblock.co/mcp/servers/github-stand-out-of-my-sun-diogenes-l402-gateway-efbd75e7?client=cursor](https://www.tensorblock.co/mcp/servers/github-stand-out-of-my-sun-diogenes-l402-gateway-efbd75e7?client=cursor)
 - **Bug Reports & Feature Requests**: [GitHub Issues](https://github.com/stand-out-of-my-sun/diogenes-micro-gateway/issues)
@@ -45,7 +45,7 @@ Purpose-built endpoints for CCP Games' **EVE: Frontier** on Sui Move:
 - **Killmail Threat Intel & Ambush Radar** (`POST /api/v1/eve-frontier/killmail-threat-intel` | 150 sats)
 - **Smart Storage Unit (SSU) Automated Market Maker** (`POST /api/v1/eve-frontier/ssu-market-maker` | 120 sats)
 - **Frontier Vault zkLogin & Character Verifier** (`POST /api/v1/eve-frontier/zklogin-character-verifier` | 100 sats)
-- **Solar System Sovereignty & Fuel Radar** (`POST /api/v1/eve-frontier/sovereignty-fuel-radar` | 140 sats)
+- **Solar System Territory & Fuel Radar** (`POST /api/v1/eve-frontier/sovereignty-fuel-radar` | 140 sats)
 - **Sui Programmable Transaction Block (PTB) Simulator** (`POST /api/v1/eve-frontier/sui-ptb-simulator` | 150 sats)
 
 ---
@@ -58,7 +58,7 @@ Connect Claude Desktop, Cursor, Antigravity, or any Model Context Protocol clien
 {
   "mcpServers": {
     "diogenes-gateway": {
-      "url": "https://diogenes-micro-gateway.corinth.workers.dev/mcp"
+      "url": "https://diogenesgateway.com/mcp"
     }
   }
 }
