@@ -11,7 +11,7 @@
 
 ### [>] Flagship Gateway: [stand-out-of-my-sun/diogenes-micro-gateway](https://github.com/stand-out-of-my-sun/diogenes-micro-gateway)
 - **Live Edge Portal**: https://diogenesgateway.com
-- **Account-Less Gemini Suite & Agents**: **45 Frontier Gemini Models** + **Antigravity Agent**, **Deep Research Pro**, **Nano Banana Pro**
+- **Account-Less Gemini Suite & Agents**: **51 Frontier Gemini Models** + **Antigravity Agent**, **Deep Research Pro**, **Nano Banana Pro**
 - **Active Edge Microservices**: **122 Live Edge Microservices** across 6 flexible payment rails (Bitcoin Lightning, Solana, Base, Garlicoin 0-Conf, BSC WGRLC, and Prepaid Session Keys)
 - **9 Modular Scoped MCP Suites**: Zero context bloat via focused packages (`eve-frontier`, `agent-guardrails`, `web3-security`, `gemini-suite`, `context-code-solver`, `dev-utilities`, `web-scraping-engine`, `neural-search-engine`, `database-intelligence`)
 - **EVE: Frontier Suite**: **14 Dedicated Sui Move Smart Assembly & Survival Microservices**
@@ -31,7 +31,7 @@ Instant pay-per-query access to Google's complete Tier 1 model catalog and AI ag
 - **Nano Banana Pro (Gemini 3 Pro Image)** (`POST /api/v1/ai/image-gen?model=gemini-3-pro-image` | 600 sats): Professional-grade high-resolution multimodal digital art, architectural diagrams, and visual UI generation.
 - **Nano Banana (Gemini 2.5 Flash Image)** (`POST /api/v1/ai/image-gen?model=gemini-2.5-flash-image` | 350 sats): Rapid prompt-adherent image and vector synthesis.
 - **Gemini 4 Argon (Frontier Reasoning)** (`POST /api/v1/ai/generate?model=gemini-4-argon` | 250 sats): Next-generation reasoning with configurable thinking budgets and search grounding.
-- **Complete Gemini 3.x & 2.5 Family**: Full access to Gemini 3.8/3.7/3.6 Flash, Gemini 3.1 Pro, Gemini 2.5 Pro/Flash, and Robotics ER-2 (45 models total via `GET /api/v1/models`).
+- **Complete Gemini 3.x & 2.5 Family**: Full access to Gemini 3.8/3.7/3.6 Flash, Gemini 3.1 Pro, Gemini 2.5 Pro/Flash, and Robotics ER-2 (51 models total via `GET /api/v1/models`).
 
 ---
 
