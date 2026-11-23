@@ -12,7 +12,7 @@
 ### [>] Flagship Gateway: [stand-out-of-my-sun/diogenes-micro-gateway](https://github.com/stand-out-of-my-sun/diogenes-micro-gateway)
 - **Live Edge Portal**: https://diogenesgateway.com
 - **Account-Less Gemini Suite & Agents**: **45 Frontier Gemini Models** + **Antigravity Agent**, **Deep Research Pro**, **Nano Banana Pro**
-- **Active Edge Microservices**: **121 Live Edge Microservices** across 6 flexible payment rails (Bitcoin Lightning, Solana, Base, Garlicoin 0-Conf, BSC WGRLC, and Prepaid Session Keys)
+- **Active Edge Microservices**: **122 Live Edge Microservices** across 6 flexible payment rails (Bitcoin Lightning, Solana, Base, Garlicoin 0-Conf, BSC WGRLC, and Prepaid Session Keys)
 - **9 Modular Scoped MCP Suites**: Zero context bloat via focused packages (`eve-frontier`, `agent-guardrails`, `web3-security`, `gemini-suite`, `context-code-solver`, `dev-utilities`, `web-scraping-engine`, `neural-search-engine`, `database-intelligence`)
 - **EVE: Frontier Suite**: **14 Dedicated Sui Move Smart Assembly & Survival Microservices**
 - **MCP Server Endpoint**: `https://diogenesgateway.com/mcp` (`/.well-known/mcp.json`)
