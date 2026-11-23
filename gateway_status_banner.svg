@@ -12,7 +12,7 @@
   <rect x="76" y="118" width="235" height="36" rx="8" fill="#130d22" stroke="#a855f7" stroke-width="1.5"/>
   <text x="193" y="141" font-family="monospace" font-size="13" font-weight="bold" fill="#c084fc" text-anchor="middle">122 Edge Microservices</text>
   <rect x="326" y="118" width="235" height="36" rx="8" fill="#130d22" stroke="#22c55e" stroke-width="1.5"/>
-  <text x="443" y="141" font-family="monospace" font-size="13" font-weight="bold" fill="#4ade80" text-anchor="middle">45 Gemini Models &amp; Agents</text>
+  <text x="443" y="141" font-family="monospace" font-size="13" font-weight="bold" fill="#4ade80" text-anchor="middle">51 Gemini Models &amp; Agents</text>
   <rect x="576" y="118" width="250" height="36" rx="8" fill="#130d22" stroke="#38bdf8" stroke-width="1.5"/>
   <text x="701" y="141" font-family="monospace" font-size="13" font-weight="bold" fill="#38bdf8" text-anchor="middle">6 Modular MCP Packages</text>
 </svg>
