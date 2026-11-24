@@ -8,9 +8,9 @@
   <rect width="900" height="180" rx="16" fill="url(#bannerBg)" stroke="#3b2361" stroke-width="2"/>
   <circle cx="55" cy="52" r="8" fill="#22c55e"/>
   <text x="76" y="58" font-family="monospace" font-size="20" font-weight="bold" fill="#f8fafc">DIOGENES GATEWAY</text>
-  <text x="76" y="90" font-family="monospace" font-size="13" fill="#a39bb8">Multi-Protocol AI Edge Gateway · 122 Edge APIs · 51 AI Models · 9 MCP Packages</text>
+  <text x="76" y="90" font-family="monospace" font-size="13" fill="#a39bb8">Multi-Protocol AI Edge Gateway · 108 Edge APIs · 51 AI Models · 9 MCP Packages</text>
   <rect x="76" y="116" width="230" height="36" rx="8" fill="#130d22" stroke="#a855f7" stroke-width="1.5"/>
-  <text x="191" y="139" font-family="monospace" font-size="13" font-weight="bold" fill="#c084fc" text-anchor="middle">122 Microservices</text>
+  <text x="191" y="139" font-family="monospace" font-size="13" font-weight="bold" fill="#c084fc" text-anchor="middle">108 Microservices</text>
   <rect x="330" y="116" width="250" height="36" rx="8" fill="#130d22" stroke="#22c55e" stroke-width="1.5"/>
   <text x="455" y="139" font-family="monospace" font-size="13" font-weight="bold" fill="#4ade80" text-anchor="middle">51 AI Models &amp; Agents</text>
   <rect x="604" y="116" width="220" height="36" rx="8" fill="#130d22" stroke="#38bdf8" stroke-width="1.5"/>
