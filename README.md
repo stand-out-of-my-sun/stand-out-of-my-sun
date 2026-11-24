@@ -3,7 +3,7 @@
 [![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-stand-out-of-my-sun-diogenes-l402-gateway-efbd75e7/badge.svg)](https://www.tensorblock.co/mcp/servers/github-stand-out-of-my-sun-diogenes-l402-gateway-efbd75e7?client=cursor)
 [![Glama MCP Server](https://glama.ai/mcp/servers/stand-out-of-my-sun/diogenes-micro-gateway/badges/score.svg)](https://glama.ai/mcp/servers/stand-out-of-my-sun/diogenes-micro-gateway)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Edge APIs](https://img.shields.io/badge/Edge%20APIs-122%20Live-brightgreen.svg)](https://diogenesgateway.com)
+[![Edge APIs](https://img.shields.io/badge/Edge%20APIs-108%20Live-brightgreen.svg)](https://diogenesgateway.com)
 [![Frontier Models](https://img.shields.io/badge/AI%20Models-51%20Supported-purple.svg)](https://diogenesgateway.com)
 
 ---
@@ -17,8 +17,7 @@
 - **15% Referral Credit Bonus (`dg_ref_...`)**: Public referral hash codes with instant commission accounting
 - **100% Free Developer Tier**: 21 deterministic coding tools (AST pruner, token planner, fuzzy patcher, ReDoS oracle, guardrails) with zero wallet/keys
 - **Frontier AI Models & Agents**: **51 Models** + **Antigravity Agent**, **Deep Research Pro**, **Nano Banana Pro**, **DeepSeek R1**, **Qwen 2.5 Coder 32B**
-- **Active Edge Microservices**: **122 Live Edge Microservices** across 9 modular domain packages
-- **Dedicated EVE: Frontier Suite**: **14 Sui Move Smart Assembly & Survival Microservices**
+- **Active Edge Microservices**: **108 Live Edge Microservices** across 9 modular domain packages
 - **Streamable HTTP MCP Endpoint**: `https://diogenesgateway.com/mcp`
 - **Glama MCP Directory**: [https://glama.ai/mcp/servers/stand-out-of-my-sun/diogenes-micro-gateway](https://glama.ai/mcp/servers/stand-out-of-my-sun/diogenes-micro-gateway)
 - **TensorBlock MCP Index**: [https://www.tensorblock.co/mcp/servers/github-stand-out-of-my-sun-diogenes-l402-gateway-efbd75e7?client=cursor](https://www.tensorblock.co/mcp/servers/github-stand-out-of-my-sun-diogenes-l402-gateway-efbd75e7?client=cursor)
@@ -60,9 +59,9 @@ curl -X POST "https://diogenesgateway.com/api/v1/ai/generate" \
 
 ---
 
-### [::] 9 Modular Purpose-Built MCP Packages (Zero Context Bloat)
+### [::] 8 Modular Purpose-Built MCP Packages (Zero Context Bloat)
 
-Instead of overloading your LLM context window with all 122 microservices, install only the scoped package you need:
+Instead of overloading your LLM context window with all 108 microservices, install only the scoped package you need:
 
 | Package | Scoped MCP Endpoint | Spoke Repository | Tools |
 | :--- | :--- | :--- | :--- |
@@ -70,11 +69,10 @@ Instead of overloading your LLM context window with all 122 microservices, insta
 | **2. Context, Code & Solvers** | `https://diogenesgateway.com/mcp/context-code-solver` | [`stand-out-of-my-sun/diogenes-context-code-solver-mcp`](https://github.com/stand-out-of-my-sun/diogenes-context-code-solver-mcp) | **15 Tools** — 100% Free Tier: AST context pruner, token planner, hybrid reranker, fuzzy patcher |
 | **3. Agent Guardrails & Sandbox** | `https://diogenesgateway.com/mcp/agent-guardrails` | [`stand-out-of-my-sun/diogenes-agent-guardrails-mcp`](https://github.com/stand-out-of-my-sun/diogenes-agent-guardrails-mcp) | **12 Tools** — Command gate, SQL validator, Python sandbox, rug-pull auditors, PII redactor |
 | **4. Web3, DeFi & 402 Security** | `https://diogenesgateway.com/mcp/web3-security` | [`stand-out-of-my-sun/diogenes-web3-security-mcp`](https://github.com/stand-out-of-my-sun/diogenes-web3-security-mcp) | **15 Tools** — EVM/Move contract auditor, Anchor CPI scanner, SPL risk & liquidity, whale tracker |
-| **5. EVE: Frontier Sui Move Suite** | `https://diogenesgateway.com/mcp/eve-frontier` | [`stand-out-of-my-sun/diogenes-eve-frontier-mcp`](https://github.com/stand-out-of-my-sun/diogenes-eve-frontier-mcp) | **14 Tools** — Assembly state inspector, Tribe standings, Move coder, Gate route planner, PTB sim |
-| **6. Dev, Data & Workflow Utilities** | `https://diogenesgateway.com/mcp/dev-utilities` | [`stand-out-of-my-sun/diogenes-dev-utilities-mcp`](https://github.com/stand-out-of-my-sun/diogenes-dev-utilities-mcp) | **14 Tools** — JSON healer, JSON Schema enforcer, entity extractor, dataset cleaner, ReDoS oracle |
-| **7. Web Extraction & Markdown** | `https://diogenesgateway.com/mcp/web-scraping-engine` | [`stand-out-of-my-sun/diogenes-web-scraping-engine-mcp`](https://github.com/stand-out-of-my-sun/diogenes-web-scraping-engine-mcp) | **12 Tools** — Clean LLM markdown compiler, readable article extractor, metadata parser, XSS sanitizer |
-| **8. Neural Search & Intelligence** | `https://diogenesgateway.com/mcp/neural-search-engine` | [`stand-out-of-my-sun/diogenes-neural-search-engine-mcp`](https://github.com/stand-out-of-my-sun/diogenes-neural-search-engine-mcp) | **12 Tools** — Neural search synthesizer, research dossier compiler, curated domain filter, velocity tracker |
-| **9. Database Intelligence & SQL** | `https://diogenesgateway.com/mcp/database-intelligence` | [`stand-out-of-my-sun/diogenes-database-intelligence-mcp`](https://github.com/stand-out-of-my-sun/diogenes-database-intelligence-mcp) | **12 Tools** — NL to SQL synthesizer, SQL injection auditor, EXPLAIN query optimizer, breaking migration differ |
+| **5. Dev, Data & Workflow Utilities** | `https://diogenesgateway.com/mcp/dev-utilities` | [`stand-out-of-my-sun/diogenes-dev-utilities-mcp`](https://github.com/stand-out-of-my-sun/diogenes-dev-utilities-mcp) | **14 Tools** — JSON healer, JSON Schema enforcer, entity extractor, dataset cleaner, ReDoS oracle |
+| **6. Web Extraction & Markdown** | `https://diogenesgateway.com/mcp/web-scraping-engine` | [`stand-out-of-my-sun/diogenes-web-scraping-engine-mcp`](https://github.com/stand-out-of-my-sun/diogenes-web-scraping-engine-mcp) | **12 Tools** — Clean LLM markdown compiler, readable article extractor, metadata parser, XSS sanitizer |
+| **7. Neural Search & Intelligence** | `https://diogenesgateway.com/mcp/neural-search-engine` | [`stand-out-of-my-sun/diogenes-neural-search-engine-mcp`](https://github.com/stand-out-of-my-sun/diogenes-neural-search-engine-mcp) | **12 Tools** — Neural search synthesizer, research dossier compiler, curated domain filter, velocity tracker |
+| **8. Database Intelligence & SQL** | `https://diogenesgateway.com/mcp/database-intelligence` | [`stand-out-of-my-sun/diogenes-database-intelligence-mcp`](https://github.com/stand-out-of-my-sun/diogenes-database-intelligence-mcp) | **12 Tools** — NL to SQL synthesizer, SQL injection auditor, EXPLAIN query optimizer, breaking migration differ |
 
 ---
 
