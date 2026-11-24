@@ -15,7 +15,7 @@
 - **1-Click IDE Installer**: `curl -sSL "https://diogenesgateway.com/install.sh" | bash` (Auto-configures Cursor, Claude Desktop, Zed, and Windsurf)
 - **Instant Stripe Card Checkout**: Top up via Card, Apple Pay, or Google Pay (\$5 Starter, \$20 Builder, \$100 Fleet with 10%–25% bonus credits)
 - **Prepaid Session Keys (`dg_sec_...`)**: `<0.1ms` edge latency, zero on-chain confirmation delay, rate-limit exemption
-- **Multi-Currency Isolated Balances**: Strict single-asset accounting across USD, sats, ETH, SOL, XRP, GRLC (*"We are not an exchange"*)
+- **Multi-Currency Isolated Balances**: Strict single-asset accounting across USD, sats, ETH, SOL, XRP, GRLC
 - **15% Rev-Share Referrals (`dg_ref_...`)**: Public referral hash codes with instant commission accounting
 - **100% Free Developer Tier**: 21 deterministic coding tools (AST pruner, token planner, fuzzy patcher, ReDoS oracle, guardrails) with zero wallet/keys
 - **Frontier AI Models & Agents**: **51 Models** + **Antigravity Agent**, **Deep Research Pro**, **Nano Banana Pro**, **DeepSeek R1**, **Qwen 2.5 Coder 32B**
