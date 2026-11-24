@@ -6,13 +6,15 @@
     </linearGradient>
   </defs>
   <rect width="900" height="180" rx="16" fill="url(#bannerBg)" stroke="#3b2361" stroke-width="2"/>
-  <circle cx="55" cy="55" r="8" fill="#22c55e"/>
-  <text x="76" y="61" font-family="monospace" font-size="20" font-weight="bold" fill="#f8fafc">DIOGENES</text>
-  <text x="76" y="94" font-family="monospace" font-size="14" fill="#a39bb8">Account-Less Gemini Suite &amp; Agents · 122 Edge Microservices · 6 Modular MCP Packages</text>
-  <rect x="76" y="118" width="235" height="36" rx="8" fill="#130d22" stroke="#a855f7" stroke-width="1.5"/>
-  <text x="193" y="141" font-family="monospace" font-size="13" font-weight="bold" fill="#c084fc" text-anchor="middle">122 Edge Microservices</text>
-  <rect x="326" y="118" width="235" height="36" rx="8" fill="#130d22" stroke="#22c55e" stroke-width="1.5"/>
-  <text x="443" y="141" font-family="monospace" font-size="13" font-weight="bold" fill="#4ade80" text-anchor="middle">51 Gemini Models &amp; Agents</text>
-  <rect x="576" y="118" width="250" height="36" rx="8" fill="#130d22" stroke="#38bdf8" stroke-width="1.5"/>
-  <text x="701" y="141" font-family="monospace" font-size="13" font-weight="bold" fill="#38bdf8" text-anchor="middle">6 Modular MCP Packages</text>
+  <circle cx="55" cy="52" r="8" fill="#22c55e"/>
+  <text x="76" y="58" font-family="monospace" font-size="20" font-weight="bold" fill="#f8fafc">DIOGENES GATEWAY</text>
+  <text x="76" y="90" font-family="monospace" font-size="13" fill="#a39bb8">Stripe Card Prepay · Instant &lt;0.1ms Keys · 122 Edge APIs · 51 AI Models · 9 MCP Packages</text>
+  <rect x="76" y="116" width="180" height="36" rx="8" fill="#130d22" stroke="#a855f7" stroke-width="1.5"/>
+  <text x="166" y="139" font-family="monospace" font-size="12" font-weight="bold" fill="#c084fc" text-anchor="middle">122 Microservices</text>
+  <rect x="270" y="116" width="186" height="36" rx="8" fill="#130d22" stroke="#22c55e" stroke-width="1.5"/>
+  <text x="363" y="139" font-family="monospace" font-size="12" font-weight="bold" fill="#4ade80" text-anchor="middle">51 AI Models &amp; Agents</text>
+  <rect x="470" y="116" width="186" height="36" rx="8" fill="#130d22" stroke="#f59e0b" stroke-width="1.5"/>
+  <text x="563" y="139" font-family="monospace" font-size="12" font-weight="bold" fill="#fbbf24" text-anchor="middle">Stripe &amp; Apple Pay</text>
+  <rect x="670" y="116" width="180" height="36" rx="8" fill="#130d22" stroke="#38bdf8" stroke-width="1.5"/>
+  <text x="760" y="139" font-family="monospace" font-size="12" font-weight="bold" fill="#38bdf8" text-anchor="middle">Instant &lt;0.1ms Keys</text>
 </svg>
