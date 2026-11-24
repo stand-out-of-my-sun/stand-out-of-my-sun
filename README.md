@@ -5,8 +5,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Edge APIs](https://img.shields.io/badge/Edge%20APIs-122%20Live-brightgreen.svg)](https://diogenesgateway.com)
 [![Frontier Models](https://img.shields.io/badge/AI%20Models-51%20Supported-purple.svg)](https://diogenesgateway.com)
-[![Stripe Fiat Checkout](https://img.shields.io/badge/Stripe-Card%20%26%20Apple%20Pay-635bff.svg)](https://diogenesgateway.com#prepay-checkout-widget)
-[![Prepaid Keys](https://img.shields.io/badge/Session%20Keys-%3C0.1ms%20Fast%20Path-orange.svg)](https://diogenesgateway.com#prepay-checkout-widget)
 
 ---
 
@@ -16,7 +14,7 @@
 - **Instant Stripe Card Checkout**: Top up via Card, Apple Pay, or Google Pay (\$5 Starter, \$20 Builder, \$100 Fleet with 10%–25% bonus credits)
 - **Prepaid Session Keys (`dg_sec_...`)**: `<0.1ms` edge latency, zero on-chain confirmation delay, rate-limit exemption
 - **Multi-Currency Isolated Balances**: Strict single-asset accounting across USD, sats, ETH, SOL, XRP, GRLC
-- **15% Rev-Share Referrals (`dg_ref_...`)**: Public referral hash codes with instant commission accounting
+- **15% Referral Credit Bonus (`dg_ref_...`)**: Public referral hash codes with instant commission accounting
 - **100% Free Developer Tier**: 21 deterministic coding tools (AST pruner, token planner, fuzzy patcher, ReDoS oracle, guardrails) with zero wallet/keys
 - **Frontier AI Models & Agents**: **51 Models** + **Antigravity Agent**, **Deep Research Pro**, **Nano Banana Pro**, **DeepSeek R1**, **Qwen 2.5 Coder 32B**
 - **Active Edge Microservices**: **122 Live Edge Microservices** across 9 modular domain packages
